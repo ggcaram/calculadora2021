@@ -7,3 +7,5 @@ Calculadora con funciones basicas para el curso de javascript de  https://scrimb
 Funciones: Multiplicar, dividir, sumar y restar
 
 Toma 2 variables declaradas con valores estaticos y ejecuta la funcion que le solicites.
+
+Link CodePen: https://codepen.io/ggcaram/pen/eYvabJj
